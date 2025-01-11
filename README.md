@@ -25,11 +25,11 @@ I’m currently exploring opportunities in software and mobile development and e
 ![Mood Swings](https://github.com/user-attachments/assets/64f692ee-c093-457f-8bb9-11e458e578fc)
 
 
-- <p>Built a location-based mood journaling app using <b>Swift and Firebase</b>, enabling users to track emotional trends and revisit key locations for improved mental health awareness</p>
-- <p>Integrated <b>MapKit and CoreLocation</b> to display journal entries as pins, enabling users to revisit specific locations</p>
-- <p>Designed interactive <b>Charts</b> visualizations to show 30-day mood ratings, averages, and mood distribution</p>
-- <p>Integrated <b>Firebase</b> for secure <b>user authentication</b> and real-time profile <b>data storage</b></p>
-- <p>Applied <b>clean architecture principles</b> by creating reusable <b>SwiftUI components</b>  and modularizing UI/UX features for scalability</p>
+  - <p>Built a location-based mood journaling app using <b>Swift and Firebase</b>, enabling users to track emotional trends and revisit key locations for improved mental health awareness</p>
+  - <p>Integrated <b>MapKit and CoreLocation</b> to display journal entries as pins, enabling users to revisit specific locations</p>
+  - <p>Designed interactive <b>Charts</b> visualizations to show 30-day mood ratings, averages, and mood distribution</p>
+  - <p>Integrated <b>Firebase</b> for secure <b>user authentication</b> and real-time profile <b>data storage</b></p>
+  - <p>Applied <b>clean architecture principles</b> by creating reusable <b>SwiftUI components</b>  and modularizing UI/UX features for scalability</p>
 <br>
 
   
@@ -38,8 +38,10 @@ I’m currently exploring opportunities in software and mobile development and e
 - <b>Grocery List App (Mobile App)</b>
   [(repo)](https://github.com/IsaiahSchatzline/GroceryListApp)
   <p><i>An app for users to write, add, and delete grocery items</i></p>
-![Grocery List App](https://github.com/user-attachments/assets/319677bf-2675-42dd-9ad3-bca65afcda90)
-
+![Grocery List App](https://github.com/user-attachments/assets/b51cacf5-0fd8-4262-8673-df9cb443f19b)
+- <p>Designed responsive layouts and reusable <b>React Native components</b>, optimizing state management with useState</p>
+- <p>Ensured smooth user input handling using TextInput and maintained seamless interactions with KeyboardAvoidingView</p>
+- <p>Tested and deployed the app with <b>Expo</b>, ensuring cross-device compatibility and a consistent user experience</p>
   
 <br>
 
