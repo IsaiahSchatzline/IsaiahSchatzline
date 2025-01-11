@@ -19,15 +19,17 @@ I’m currently exploring opportunities in software and mobile development and e
 - <b>MoodMapp (iOS App)</b>
   [(repo)](https://github.com/IsaiahSchatzline/moodmapp)
   <p><i>A location-based mood tracker</i></p>
-
-
+![New Mood](https://github.com/user-attachments/assets/47d10ebe-ab07-4a79-b20d-b8df49cc62ad)
+![Mood Journal](https://github.com/user-attachments/assets/e5d097b6-e59c-4484-a9e2-b0cf6d2256d7)
+![Mood Mapp](https://github.com/user-attachments/assets/c722602d-6ed2-4e99-b6d0-6296f7d6ce4e)
+![Mood Swings](https://github.com/user-attachments/assets/64f692ee-c093-457f-8bb9-11e458e578fc)
   
 <br>
   
 - <b>Grocery List App (Mobile App)</b>
   [(repo)](https://github.com/IsaiahSchatzline/GroceryListApp)
   <p><i>An app for users to write, add, and delete grocery items</i></p>
-![GroceryListGif-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/319677bf-2675-42dd-9ad3-bca65afcda90)
+![Grocery List App](https://github.com/user-attachments/assets/319677bf-2675-42dd-9ad3-bca65afcda90)
 
   
 <br>
