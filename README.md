@@ -27,7 +27,7 @@ I’m currently exploring opportunities in software and mobile development and e
 - <b>Grocery List App (Mobile App)</b>
   [(repo)](https://github.com/IsaiahSchatzline/GroceryListApp)
   <p><i>An app for users to write, add, and delete grocery items</i></p>
-
+![GroceryListGif-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/319677bf-2675-42dd-9ad3-bca65afcda90)
 
   
 <br>
