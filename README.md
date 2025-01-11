@@ -9,6 +9,11 @@ I love being creative, whether it’s designing user-focused iOS apps, brainstor
 I’m currently exploring opportunities in software and mobile development and enjoy connecting with professionals who share my passion for leveraging creativity and technology to improve lives. Let’s bring bold ideas to life together!</p>
 <br>
 
+<h2>🤖 Tech Stack:</h2>
+<p><b>Programming:</b> Swift, Python, Java, JavaScript, TypeScript, HTML/CSS, SQL</p>
+<p><b>Tools:</b> React Native, Expo, Xcode, SwiftUI, UIKit, SwiftData, Firebase, Visual Studio Code, WebStorm, Eclipse,  MySQL, Git</p>
+<br>
+
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>MoodMapp (iOS App)</b>
