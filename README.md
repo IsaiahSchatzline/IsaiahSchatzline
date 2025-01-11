@@ -23,6 +23,15 @@ I’m currently exploring opportunities in software and mobile development and e
 ![Mood Journal](https://github.com/user-attachments/assets/e5d097b6-e59c-4484-a9e2-b0cf6d2256d7)
 ![Mood Mapp](https://github.com/user-attachments/assets/c722602d-6ed2-4e99-b6d0-6296f7d6ce4e)
 ![Mood Swings](https://github.com/user-attachments/assets/64f692ee-c093-457f-8bb9-11e458e578fc)
+
+
+- <p>Built a location-based mood journaling app using <b>Swift and Firebase</b>, enabling users to track emotional trends and revisit key locations for improved mental health awareness</p>
+- <p>Integrated <b>MapKit and CoreLocation</b> to display journal entries as pins, enabling users to revisit specific locations</p>
+- <p>Designed interactive <b>Charts</b> visualizations to show 30-day mood ratings, averages, and mood distribution</p>
+- <p>Integrated <b>Firebase</b> for secure <b>user authentication</b> and real-time profile <b>data storage</b></p>
+- <p>Applied <b>clean architecture principles</b> by creating reusable <b>SwiftUI components</b>  and modularizing UI/UX features for scalability</p>
+<br>
+
   
 <br>
   
