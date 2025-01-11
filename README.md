@@ -16,11 +16,14 @@ I’m currently exploring opportunities in software and mobile development and e
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>MoodMapp (iOS App)</b>
-  [(repo)](https://github.com/IsaiahSchatzline/moodmapp)
-  <p><i>A location-based mood tracker</i></p>
+<h3>MoodMapp (iOS App)</h3>
+
+[(repo)](https://github.com/IsaiahSchatzline/moodmapp)
+  <p><i>A Location-Based Mood Journal</i></p>
+  
 ![New Mood](https://github.com/user-attachments/assets/47d10ebe-ab07-4a79-b20d-b8df49cc62ad)
 ![Mood Journal](https://github.com/user-attachments/assets/e5d097b6-e59c-4484-a9e2-b0cf6d2256d7)
+<br>
 ![Mood Mapp](https://github.com/user-attachments/assets/c722602d-6ed2-4e99-b6d0-6296f7d6ce4e)
 ![Mood Swings](https://github.com/user-attachments/assets/64f692ee-c093-457f-8bb9-11e458e578fc)
 
@@ -35,10 +38,13 @@ I’m currently exploring opportunities in software and mobile development and e
   
 <br>
   
-- <b>Grocery List App (Mobile App)</b>
-  [(repo)](https://github.com/IsaiahSchatzline/GroceryListApp)
-  <p><i>An app for users to write, add, and delete grocery items</i></p>
+<h3>Grocery List App (Mobile App)</h3>
+
+[(repo)](https://github.com/IsaiahSchatzline/GroceryListApp)
+<p><i>An app for users to write, add, and delete grocery items</i></p>
+
 ![Grocery List App](https://github.com/user-attachments/assets/b51cacf5-0fd8-4262-8673-df9cb443f19b)
+
 - <p>Designed responsive layouts and reusable <b>React Native components</b>, optimizing state management with useState</p>
 - <p>Ensured smooth user input handling using TextInput and maintained seamless interactions with KeyboardAvoidingView</p>
 - <p>Tested and deployed the app with <b>Expo</b>, ensuring cross-device compatibility and a consistent user experience</p>
