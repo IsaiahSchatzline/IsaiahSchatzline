@@ -11,7 +11,7 @@ I’m currently exploring opportunities in software and mobile development and e
 
 <h2>🤖 Tech Stack:</h2>
 <p><b>Programming:</b> Swift, Python, Java, JavaScript, TypeScript, HTML/CSS, SQL</p>
-<p><b>Tools:</b> React Native, Expo, Xcode, SwiftUI, UIKit, SwiftData, Firebase, Visual Studio Code, WebStorm, Eclipse,  MySQL, Git</p>
+<p><b>Tools:</b> React Native, Expo, Xcode, SwiftUI, UIKit, SwiftData, Firebase, Visual Studio Code, WebStorm, Eclipse, Git</p>
 <br>
 
 <h2>👨‍💻 Software Development Projects:</h2>
