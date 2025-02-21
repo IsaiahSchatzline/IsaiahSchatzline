@@ -2,7 +2,7 @@
 
 <h2>😀 About Me:</h2>
 
-<p>I’m a 24-year-old Computer Science student at Western Governors University, passionate about software engineering, mobile app development, and creating impactful digital solutions. My academic journey in technology fuels my enthusiasm for innovation, while my experience as a pastor has honed my leadership, problem-solving, and community engagement skills.
+<p>I’m a 25-year-old Computer Science student at Western Governors University, passionate about software engineering, mobile app development, and creating impactful digital solutions. My academic journey in technology fuels my enthusiasm for innovation, while my experience as a pastor has honed my leadership, problem-solving, and community engagement skills.
 
 I love being creative, whether it’s designing user-focused iOS apps, brainstorming innovative ways to solve problems, or writing music. I thrive at the intersection of technology and community impact, blending technical expertise with imaginative thinking to create meaningful experiences.
 
