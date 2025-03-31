@@ -2,11 +2,11 @@
 
 <h2>😀 About Me:</h2>
 
-<p>I’m a 25-year-old Computer Science student at Western Governors University, passionate about software engineering, mobile app development, and creating impactful digital solutions. My academic journey in technology fuels my enthusiasm for innovation, while my experience as a pastor has honed my leadership, problem-solving, and community engagement skills.
+<p>I’m a 25-year-old Computer Science student at Western Governors University and currently a Mobile Engineering Intern, iOS at Fleetio. I’m passionate about software engineering, mobile app development, and building impactful digital solutions.
 
-I love being creative, whether it’s designing user-focused iOS apps, brainstorming innovative ways to solve problems, or writing music. I thrive at the intersection of technology and community impact, blending technical expertise with imaginative thinking to create meaningful experiences.
+I love being creative—whether it’s designing user-focused iOS apps, brainstorming innovative solutions, or writing music. I thrive at the intersection of technology and community impact, blending technical expertise with imaginative thinking to create meaningful experiences.
 
-I’m currently exploring opportunities in software and mobile development and enjoy connecting with professionals who share my passion for leveraging creativity and technology to improve lives. Let’s bring bold ideas to life together!</p>
+I’m always eager to learn, grow, and collaborate with like-minded professionals. Let’s bring bold ideas to life together!</p>
 <br>
 
 <h2>🤖 Tech Stack:</h2>
