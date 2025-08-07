@@ -17,7 +17,8 @@ I’m always eager to learn, grow, and collaborate with like-minded professional
 
 <h2>🚘 Fleetio Highlights:</h2>
 
-  - <p>Crafted <b>custom clustering</b> for shop-name pins (MKAnnotationView/MKMarkerAnnotationView) and replaced the “Search This Area” button with <b>live, pan-and-zoom–driven map refreshes<b> by using a debounce technique</p>
+  - <p>Crafted a <b>custom clustering algorithm</b> for customized map pins using MKAnnotationView and MKMarkerAnnotationView types</p>
+  - <p>Replaced the “Search This Area” map button logic with <b>live, pan-and-zoom–driven map refreshes<b> by using a debounce</p>
   - <p>Added <b>location-based filtering</b> to display shop map-pins according to their Network Status using <b>REST API query params</b></p>
   - <p>Migrated key screens from <b>UIKit</b> to <b>SwiftUI</b>, preserving pixel-perfect fidelity with <b>snapshot tests</b>, and iterated on UI/UX improvements post-migration</p>
   - <p>Overhauled in-app verbiage and label changes via <b>feature flags</b> and account preferences through <b>RESTful API calls</b></p>
