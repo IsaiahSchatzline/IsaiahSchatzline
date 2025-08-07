@@ -15,6 +15,17 @@ I’m always eager to learn, grow, and collaborate with like-minded professional
 <p><b>Tools & Services:</b> Xcode, RocketSim, VSCode, Git/GitHub, Bitrise, Postman, JIRA, Figma, Notion, Slack, Firebase, Datadog, G-Suite</p>
 <br>
 
+<h2>🚘 Fleetio Highlights:</h2>
+
+  - <p>Crafted <b>custom clustering</b> for shop-name pins (MKAnnotationView/MKMarkerAnnotationView) and replaced the “Search This Area” button with <b>live, pan-and-zoom–driven map refreshes<b> by using a debounce technique</p>
+  - <p>Added <b>location-based filtering</b> to display shop map-pins according to their Network Status using <b>REST API query params</b></p>
+  - <p>Migrated key screens from <b>UIKit</b> to <b>SwiftUI</b>, preserving pixel-perfect fidelity with <b>snapshot tests</b>, and iterated on UI/UX improvements post-migration</p>
+  - <p>Overhauled in-app verbiage and label changes via <b>feature flags</b> and account preferences through <b>RESTful API calls</b></p>
+  - <p>Identified and remediated multiple SwiftUI and UIKit rendering issues to ensure consistent, <b>visually appealing interfaces</b></p>
+  - <p>Debugged and fixed complex UI/UX and logic issues in Service Entries, Parts, and Inspection flows, including tire/axle configuration labeling</p>
+  - <p>Implemented <b>Test Driven Development</b> through unit testing with frameworks like <b>XCTests</b> and <b>SwiftTesting</b></p>
+<br>
+
 <h2>👨‍💻 Software Development Projects:</h2>
 
 <h3>MoodMapp (iOS App)</h3>
