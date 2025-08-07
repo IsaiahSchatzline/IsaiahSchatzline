@@ -11,7 +11,7 @@ I’m always eager to learn, grow, and collaborate with like-minded professional
 
 <h2>🤖 Tech Stack:</h2>
 <p><b>Programming:</b> Swift, SwiftUI, UIKit, SwiftData, Java, Python, HTML/CSS</p>
-<p><b>Architectures</b> MVVM (Model-View-ViewModel), MVC (Model-View-Controller), MVI (Model-View-Interactor)</p>
+<p><b>Architectures:</b> MVVM (Model-View-ViewModel), MVC (Model-View-Controller), MVI (Model-View-Interactor)</p>
 <p><b>Tools & Services:</b> Xcode, RocketSim, VSCode, Git/GitHub, Bitrise, Postman, JIRA, Figma, Notion, Slack, Firebase, Datadog, G-Suite</p>
 <br>
 
