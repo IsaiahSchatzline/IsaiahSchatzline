@@ -2,7 +2,7 @@
 
 <h2>😀 About Me:</h2>
 
-<p>I’m a 25-year-old Computer Science student at Western Governors University and currently a Mobile Engineering Intern, iOS at Fleetio. I’m passionate about software engineering, mobile app development, and building impactful digital solutions.
+<p>I’m a 25-year-old Computer Science student at Western Governors University and currently a Mobile Engineering Intern, iOS at Fleetio. I’m passionate about software engineering, iOS app development, and building impactful digital solutions.
 
 I love being creative—whether it’s designing user-focused iOS apps, brainstorming innovative solutions, or writing music. I thrive at the intersection of technology and community impact, blending technical expertise with imaginative thinking to create meaningful experiences.
 
@@ -10,8 +10,9 @@ I’m always eager to learn, grow, and collaborate with like-minded professional
 <br>
 
 <h2>🤖 Tech Stack:</h2>
-<p><b>Programming:</b> Swift, Python, Java, JavaScript, TypeScript, HTML/CSS, SQL</p>
-<p><b>Tools:</b> React Native, Expo, Xcode, SwiftUI, UIKit, SwiftData, Firebase, Visual Studio Code, WebStorm, Eclipse, Git</p>
+<p><b>Programming:</b> Swift, SwiftUI, UIKit, SwiftData, Java, Python, HTML/CSS</p>
+<p><b>Architectures</b> MVVM (Model-View-ViewModel), MVC (Model-View-Controller), MVI (Model-View-Interactor)</p>
+<p><b>Tools & Services:</b> Xcode, RocketSim, VSCode, Git/GitHub, Bitrise, Postman, JIRA, Figma, Notion, Slack, Firebase, Datadog, G-Suite</p>
 <br>
 
 <h2>👨‍💻 Software Development Projects:</h2>
