@@ -24,7 +24,7 @@ I’m always eager to learn, grow, and collaborate with like-minded professional
   - <p>Modernized app UI by migrating <b>UIKit</b> screens to <b>SwiftUI</b>, using <b>snapshot testing</b> to ensure pixel-perfect <b>regression coverage</b></p>
   - <p>Overhauled in-app verbiage via <b>feature flags</b> and account preferences through <b>RESTful API calls</b></p>
   - <p><b>Resolved intricate UI and logic issues</b> across Service Entries, Parts, and Inspection flows (e.g., tire/axle config)</p>
-  - <p>Implemented <b>Test Driven Development</b> through unit testing with frameworks like <b>XCTests</b> and <b>SwiftTesting</b></p>
+  - <p>Experience with <b>TDD, pairing, code reviews</b>, and other techniques to maintain high-quality code</p>
 <br>
 
 <h2>👨‍💻 Software Development Projects:</h2>
