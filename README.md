@@ -18,13 +18,12 @@ I’m always eager to learn, grow, and collaborate with like-minded professional
 <h2>🚘 Fleetio Highlights:</h2>
 
   - <p>Built features, fixed bugs, and worked on Fleetio’s iOS app, Fleetio Go, <b>impacting 120,000+ monthly users</b></p>
-  - <p>Crafted a <b>custom clustering algorithm</b> for customized map pins using MKAnnotationView and MKMarkerAnnotationView</p>
-  - <p>Replaced the “Search This Area” map button logic with <b>live, pan-and-zoom–driven map refreshes</b> by using a debounce</p>
-  - <p>Added <b>location-based filtering</b> to display shop map-pins according to their Network Status using <b>REST API query params</b></p>
-  - <p>Migrated key screens from <b>UIKit</b> to <b>SwiftUI</b>, preserving pixel-perfect fidelity with <b>snapshot tests</b>, and iterated on UI/UX improvements post-migration</p>
-  - <p>Overhauled in-app verbiage and label changes via <b>feature flags</b> and account preferences through <b>RESTful API calls</b></p>
-  - <p>Identified and remediated multiple SwiftUI and UIKit rendering issues to ensure consistent, <b>visually appealing interfaces</b></p>
-  - <p>Debugged and fixed complex UI/UX and logic issues in Service Entries, Parts, and Inspection flows, including tire/axle configuration labeling</p>
+  - <p><b>Collaborated</b> with Engineering, QA, Design & PM in Fleet Maintenance and Marketplace PODs through <b>6-week Agile sprints</b></p>
+  - <p>Teamed up on a cross-functional <b>hackathon team</b> to architect and implement <b>iOS App Intents</b> for Fleetio Go, enabling <b>Siri voice commands, Home Screen widgets, and Shortcuts support</b>, plus an <b>App Clip</b> for frictionless feature trials</p>
+  - <p>Crafted & optimized a <b>custom map-pin clustering algorithm</b> (MKAnnotationView/MKMarkerAnnotationView), <b>live pan-and-zoom map refresh through debouncing</b>, and location-based filtering via <b>RESTful API query parameters</b></p>
+  - <p>Modernized app UI by migrating <b>UIKit</b> screens to <b>SwiftUI</b>, using <b>snapshot testing</b> to ensure pixel-perfect <b>regression coverage</b></p>
+  - <p>Overhauled in-app verbiage via <b>feature flags</b> and account preferences through <b>RESTful API calls</b></p>
+  - <p><b>Resolved intricate UI and logic issues</b> across Service Entries, Parts, and Inspection flows (e.g., tire/axle config)</p>
   - <p>Implemented <b>Test Driven Development</b> through unit testing with frameworks like <b>XCTests</b> and <b>SwiftTesting</b></p>
 <br>
 
