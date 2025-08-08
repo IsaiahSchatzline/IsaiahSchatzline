@@ -17,6 +17,7 @@ I’m always eager to learn, grow, and collaborate with like-minded professional
 
 <h2>🚘 Fleetio Highlights:</h2>
 
+  - <p>Built features, fixed bugs, and worked on Fleetio’s iOS app, Fleetio Go, <b>impacting 120,000+ monthly users</b></p>
   - <p>Crafted a <b>custom clustering algorithm</b> for customized map pins using MKAnnotationView and MKMarkerAnnotationView</p>
   - <p>Replaced the “Search This Area” map button logic with <b>live, pan-and-zoom–driven map refreshes</b> by using a debounce</p>
   - <p>Added <b>location-based filtering</b> to display shop map-pins according to their Network Status using <b>REST API query params</b></p>
