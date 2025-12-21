@@ -2,29 +2,28 @@
 
 <h2>😀 About Me:</h2>
 
-<p>I’m a 25-year-old Computer Science student at Western Governors University and currently a Mobile Engineering Intern, iOS at Fleetio. I’m passionate about software engineering, iOS app development, and building impactful digital solutions.
+<p>I’m a 25-year-old Software Engineering senior at Western Governors University and currently a Mobile Engineering Intern, iOS at Fleetio. I’m passionate about software engineering, mobile app development, and building impactful digital solutions.
 
-I love being creative—whether it’s designing user-focused iOS apps, brainstorming innovative solutions, or writing music. I thrive at the intersection of technology and community impact, blending technical expertise with imaginative thinking to create meaningful experiences.
+I love being creative—whether it’s designing user-focused mobile apps, brainstorming innovative solutions, or writing music. I thrive at the intersection of technology and community impact, blending technical expertise with imaginative thinking to create meaningful experiences.
 
 I’m always eager to learn, grow, and collaborate with like-minded professionals. Let’s bring bold ideas to life together!</p>
 <br>
 
 <h2>🤖 Tech Stack:</h2>
-<p><b>Programming:</b> Swift, SwiftUI, UIKit, SwiftData, Java, Python, HTML/CSS</p>
-<p><b>Architectures:</b> MVVM (Model-View-ViewModel), MVC (Model-View-Controller), MVI (Model-View-Interactor)</p>
-<p><b>Tools & Services:</b> Xcode, RocketSim, VSCode, Git/GitHub, Bitrise, Postman, JIRA, Figma, Notion, Slack, Firebase, Datadog, G-Suite</p>
+<p><b>Programming:</b> Swift, SwiftUI, UIKit, Kotlin, JavaScript/TypeScript, React Native, Node.js, Java, Python, HTML/CSS</p>
+<p><b>Architectures:</b> MVVM, MVC, MVI, Clean Architecture, Vertical Slice Architecture</p>
+<p><b>Tools & Services:</b> XCode, VSCode, RocketSim, Terminal Git, GitHub, CI/CD Pipelines, Firebase, Datadog, JIRA, Figma, Notion, Slack, G-Suite</p>
 <br>
 
 <h2>🚘 Fleetio Highlights:</h2>
 
-  - <p>Built features, fixed bugs, and worked on Fleetio’s iOS app, Fleetio Go, <b>impacting 120,000+ monthly users</b></p>
-  - <p><b>Collaborated</b> with Engineering, QA, Design & PM in Fleet Maintenance and Marketplace PODs through <b>6-week Agile sprints</b></p>
+  - <p><b>Led development</b> of Fleetio Go’s <b>Shop Directory</b>, driving weekly visits up <b>6x</b> in four months (<b>1,372 → 8,143</b>)</p>
+  - <p>Developed key features and <b>resolved critical bugs</b> in Fleetio Go, enhancing user experience for <b>125,000+ monthly users</b></p>
+  - <p>Built a <b>SwiftUI</b> “Liquid Glass” <b>design system</b> using a custom <b>ViewModifier</b>, enabling consistent styling and adoption</p>
+  - <p>Modernized UI by migrating <b>UIKit</b> screens to <b>SwiftUI</b>, using <b>snapshot testing</b> to ensure pixel-perfect <b>regression coverage</b></p>
+  - <p>Built a <b>custom map-pin clustering algorithm</b> using <b>MKAnnotationView</b> and <b>MKMarkerAnnotationView</b>, enabling <b>live map refresh</b> with <b>debouncing</b> and location-based filtering via <b>RESTful APIs</b></p>
   - <p>Teamed up on a cross-functional <b>hackathon team</b> to architect and implement <b>iOS App Intents</b> for Fleetio Go, enabling <b>Siri voice commands, Home Screen widgets, and Shortcuts support</b>, plus an <b>App Clip</b> for frictionless feature trials</p>
-  - <p>Crafted & optimized a <b>custom map-pin clustering algorithm</b> (MKAnnotationView/MKMarkerAnnotationView), <b>live pan-and-zoom map refresh through debouncing</b>, and location-based filtering via <b>RESTful API query parameters</b></p>
-  - <p>Modernized app UI by migrating <b>UIKit</b> screens to <b>SwiftUI</b>, using <b>snapshot testing</b> to ensure pixel-perfect <b>regression coverage</b></p>
-  - <p>Overhauled in-app verbiage via <b>feature flags</b> and account preferences through <b>RESTful API calls</b></p>
-  - <p><b>Resolved intricate UI and logic issues</b> across Service Entries, Parts, and Inspection flows (e.g., tire/axle config)</p>
-  - <p>Experience with <b>TDD, pairing, code reviews</b>, and other techniques to maintain high-quality code</p>
+  - <p>Implemented <b>TDD</b> with <b>XCTests</b> and <b>SwiftTesting</b>, ensuring high-quality code through <b>code reviews</b> and <b>pair programming</b></p>
 <br>
 
 <h2>👨‍💻 Software Development Projects:</h2>
