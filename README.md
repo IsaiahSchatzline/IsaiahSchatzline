@@ -11,7 +11,7 @@ I’m always eager to learn, grow, and collaborate with like-minded professional
 
 <h2>🤖 Tech Stack:</h2>
 <p><b>Programming:</b> Swift, SwiftUI, UIKit, Kotlin, JavaScript/TypeScript, React Native, Node.js, Java, Python, HTML/CSS</p>
-<p><b>Architectures:</b> MVVM, MVC, MVI, Clean Architecture, Vertical Slice Architecture</p>
+<p><b>Architectures:</b> MVVM, MVC, MVI, Modular Clean Architecture, Vertical Slice Architecture</p>
 <p><b>Tools & Services:</b> XCode, VSCode, RocketSim, Terminal Git, GitHub, CI/CD Pipelines, Firebase, Datadog, JIRA, Figma, Notion, Slack, G-Suite</p>
 <br>
 
@@ -28,16 +28,37 @@ I’m always eager to learn, grow, and collaborate with like-minded professional
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+<h3>CouncilChat (iOS App)</h3>
+
+[(repo)](https://github.com/IsaiahSchatzline/CouncilChat)
+  <p><i>An AI Church Council Research Chatbot</i></p>
+
+![Full Video Demo](https://github.com/user-attachments/assets/64927eb5-973e-4c96-99d1-ed0d5501390a)
+<br>
+<img width="325" height="631" alt="New Chat" src="https://github.com/user-attachments/assets/36c416ac-f9a5-432a-9c89-4119124f8941" />
+<img width="325" height="631" alt="Thinking" src="https://github.com/user-attachments/assets/e7e871f7-8e01-4a53-abbe-08913709f195" />
+<br>
+<img width="325" height="631" alt="AI Response" src="https://github.com/user-attachments/assets/5aa9ce16-11ab-4608-9bad-eaec996bbf42" />
+<img width="325" height="631" alt="Delete Alert" src="https://github.com/user-attachments/assets/d78054eb-7b7e-482c-a1f3-6f04bbdc068f" />
+
+  - <p>Integrated the <b>OpenAI API</b> to build an AI chat experience, using <b>prompt engineering</b> to enforce response rules, tone, and styling</p>
+  - <p>Built reusable <b>SwiftUI components</b> and optimized state management using the <b>Swift Observation</b> framework</p>
+  - <p>Architected <b>SwiftData</b> persistence for chat threads with <b>MVVM</b> and <b>protocol abstractions</b> to keep features testable and maintainable</p>
+  - <p>Designed toward <b>modular clean architecture</b> by separating <b>UI</b>, <b>data</b>, and <b>domain</b> layers, reducing coupling across the codebase</p>
+<br>
+<br>
+
+
 <h3>MoodMapp (iOS App)</h3>
 
 [(repo)](https://github.com/IsaiahSchatzline/moodmapp)
   <p><i>A Location-Based Mood Journal</i></p>
-  
-![New Mood](https://github.com/user-attachments/assets/47d10ebe-ab07-4a79-b20d-b8df49cc62ad)
-![Mood Journal](https://github.com/user-attachments/assets/e5d097b6-e59c-4484-a9e2-b0cf6d2256d7)
+
+![New Mood](https://github.com/user-attachments/assets/d54889bc-0796-4750-8555-177970a131a9)
+![Mood Journal](https://github.com/user-attachments/assets/f5a0ff18-5b8d-48f1-9c23-ae0becdfe419)
 <br>
-![Mood Mapp](https://github.com/user-attachments/assets/c722602d-6ed2-4e99-b6d0-6296f7d6ce4e)
-![Mood Swings](https://github.com/user-attachments/assets/64f692ee-c093-457f-8bb9-11e458e578fc)
+![Mood Map](https://github.com/user-attachments/assets/5d0e26f5-02d5-4cda-9b8b-28c64655fd86)
+![Mood Swings](https://github.com/user-attachments/assets/d5c97cf2-eb71-4cf5-9aa8-e9530ee12152)
 
 
   - <p>Built a location-based mood journaling app using <b>Swift and Firebase</b>, enabling users to track emotional trends and revisit key locations for improved mental health awareness</p>
