@@ -2,28 +2,27 @@
 
 <h2>😀 About Me:</h2>
 
-<p>I’m a 25-year-old Software Engineering senior at Western Governors University and currently a Mobile Engineering Intern, iOS at Fleetio. I’m passionate about software engineering, mobile app development, and building impactful digital solutions.
+<p>I’m an iOS Software Engineer and am currently working at Fleetio. I’m passionate about iOS development, building impactful user experiences, and cultivating a collaborative team culture.
 
-I love being creative—whether it’s designing user-focused mobile apps, brainstorming innovative solutions, or writing music. I thrive at the intersection of technology and community impact, blending technical expertise with imaginative thinking to create meaningful experiences.
-
-I’m always eager to learn, grow, and collaborate with like-minded professionals. Let’s bring bold ideas to life together!</p>
+I love being creative. Whether it’s creating user-focused mobile apps, brainstorming innovative solutions, building teams, or writing music. I thrive at the intersection of technology and community impact, blending technical expertise with leadership and communication skills to create meaningful experiences that drive impact.</p>
 <br>
 
 <h2>🤖 Tech Stack:</h2>
-<p><b>Programming:</b> Swift, SwiftUI, UIKit, Kotlin, JavaScript/TypeScript, React Native, Node.js, Java, Python, HTML/CSS</p>
-<p><b>Architectures:</b> MVVM, MVC, MVI, Modular Clean Architecture, Vertical Slice Architecture</p>
-<p><b>Tools & Services:</b> XCode, VSCode, RocketSim, Terminal Git, GitHub, CI/CD Pipelines, Firebase, Datadog, JIRA, Figma, Notion, Slack, G-Suite</p>
+<p><b>Programming:</b> Swift, SwiftUI, UIKit, Swift Concurrency (async/await), Kotlin, Java, JavaScript, Python, HTML, CSS</p>
+<p><b>Architectures:</b> MVVM, MVI, Clean Architecture, Vertical Slice Architecture</p>
+<p><b>Tools & Services:</b> XCode, VSCode, Terminal/Git, GitHub, CI/CD, Firebase, Datadog, JIRA, Figma, Notion, Slack</p>
 <br>
 
 <h2>🚘 Fleetio Highlights:</h2>
 
-  - <p><b>Led development</b> of Fleetio Go’s <b>Shop Directory</b>, driving weekly visits up <b>6x</b> in four months (<b>1,372 → 8,143</b>)</p>
-  - <p>Developed key features and <b>resolved critical bugs</b> in Fleetio Go, enhancing user experience for <b>125,000+ monthly users</b></p>
-  - <p>Built a <b>SwiftUI</b> “Liquid Glass” <b>design system</b> using a custom <b>ViewModifier</b>, enabling consistent styling and adoption</p>
-  - <p>Modernized UI by migrating <b>UIKit</b> screens to <b>SwiftUI</b>, using <b>snapshot testing</b> to ensure pixel-perfect <b>regression coverage</b></p>
-  - <p>Built a <b>custom map-pin clustering algorithm</b> using <b>MKAnnotationView</b> and <b>MKMarkerAnnotationView</b>, enabling <b>live map refresh</b> with <b>debouncing</b> and location-based filtering via <b>RESTful APIs</b></p>
-  - <p>Teamed up on a cross-functional <b>hackathon team</b> to architect and implement <b>iOS App Intents</b> for Fleetio Go, enabling <b>Siri voice commands, Home Screen widgets, and Shortcuts support</b>, plus an <b>App Clip</b> for frictionless feature trials</p>
-  - <p>Implemented <b>TDD</b> with <b>XCTests</b> and <b>SwiftTesting</b>, ensuring high-quality code through <b>code reviews</b> and <b>pair programming</b></p>
+  - <p><b>Developed key features</b> and <b>resolved critical bugs</b> in Fleetio Go, improving the experience for <b>125,000+ monthly users</b></p>  
+  - <p><b>Spearheaded development</b> of Fleetio Go’s <b>Shop Directory</b> in an <b>Agile SDLC</b> (6-week sprints, POD model), increasing weekly visits <b>6x</b> in four months (<b>1,372 → 8,143</b>)</p>  
+  - <p><b>Owned</b> a SwiftUI “Liquid Glass” <b>design system</b> using a custom <b>ViewModifier</b>, enabling consistent styling and faster UI adoption</p>  
+  - <p><b>Modernized UI</b> by migrating <b>UIKit</b> screens to <b>SwiftUI</b>, using <b>snapshot testing</b> to ensure pixel-perfect <b>regression coverage</b></p>  
+  - <p>Built a <b>custom MapKit clustering algorithm</b> with smooth animations and <b>live map refresh</b>, supporting debounced updates and location-based filtering via <b>RESTful APIs</b></p>  
+  - <p>Co-developed <b>iOS App Intents</b> for Fleetio Go, enabling <b>Siri voice commands</b>, <b>Shortcuts</b> support, and <b>Home Screen widgets</b></p>  
+  - <p><b>Pioneered</b> and <b>demoed</b> an iOS <b>App Clip</b> at a company-wide, cross-functional <b>hackathon</b> to reduce first-time user friction</p>
+  - <p>Implemented <b>TDD</b> with <b>XCTest</b> and <b>SwiftTesting</b>, ensuring high-quality code through <b>code reviews</b> and <b>pair programming</b></p>
 <br>
 
 <h2>👨‍💻 Software Development Projects:</h2>
@@ -41,10 +40,11 @@ I’m always eager to learn, grow, and collaborate with like-minded professional
 <img width="325" height="631" alt="AI Response" src="https://github.com/user-attachments/assets/5aa9ce16-11ab-4608-9bad-eaec996bbf42" />
 <img width="325" height="631" alt="Delete Alert" src="https://github.com/user-attachments/assets/d78054eb-7b7e-482c-a1f3-6f04bbdc068f" />
 
-  - <p>Integrated the <b>OpenAI API</b> to build an AI chat experience, using <b>prompt engineering</b> to enforce response rules, tone, and styling</p>
-  - <p>Built reusable <b>SwiftUI components</b> and optimized state management using the <b>Swift Observation</b> framework</p>
-  - <p>Architected <b>SwiftData</b> persistence for chat threads with <b>MVVM</b> and <b>protocol abstractions</b> to keep features testable and maintainable</p>
-  - <p>Designed toward <b>modular clean architecture</b> by separating <b>UI</b>, <b>data</b>, and <b>domain</b> layers, reducing coupling across the codebase</p>
+  - <p>Integrated <b>OpenAI's API</b> to create an AI chat system while setting rules for bot responses and conversation styling</p>
+  - <p>Architected <b>SwiftData</b> persistence for chat threads with <b>MVVM</b> and <b>protocol abstractions</b> to keep features testable</p>
+  - <p>Applied <b>Modular Clean Architecture</b> by separating <b>UI</b>, <b>data</b>, and <b>domain</b> layers, reducing coupling across the codebase</p>
+  - <p>Built reusable <b>SwiftUI components</b> and optimized state management utilizing the <b>Swift Observation</b> framework</p>
+  - <p>Conducted <b>user research</b> through persona interviews and <b>usability tests</b> to ensure the app met user needs and expectations</p>
 <br>
 <br>
 
@@ -61,11 +61,11 @@ I’m always eager to learn, grow, and collaborate with like-minded professional
 ![Mood Swings](https://github.com/user-attachments/assets/d5c97cf2-eb71-4cf5-9aa8-e9530ee12152)
 
 
-  - <p>Built a location-based mood journaling app using <b>Swift and Firebase</b>, enabling users to track emotional trends and revisit key locations for improved mental health awareness</p>
+  - <p>Created a location-based mood journaling app using <b>Swift/SwiftUI, SwiftData, and Firebase</b></p>
   - <p>Integrated <b>MapKit and CoreLocation</b> to display journal entries as pins, enabling users to revisit specific locations</p>
-  - <p>Designed interactive <b>Charts</b> visualizations to show 30-day mood ratings, averages, and mood distribution</p>
-  - <p>Integrated <b>Firebase</b> for secure <b>user authentication</b> and real-time profile <b>data storage</b></p>
-  - <p>Applied <b>clean architecture principles</b> by creating reusable <b>SwiftUI components</b>  and modularizing UI/UX features for scalability</p>
+  - <p>Designed and developed interactive chart visualizations, using the <b>Swift Charts</b> framework, to show 30-day mood analytics</p>
+  - <p>Implemented <b>secure authentication</b> with <b>Firebase Auth</b> and enabled real-time profile <b>CRUD</b> using <b>Cloud Firestore</b>
+  - <p>Applied <b>SOLID principles</b> to build resuable <b>SwiftUI</b> components and modularize features, improving maintenance/scalability</p>
 <br>
 
   
