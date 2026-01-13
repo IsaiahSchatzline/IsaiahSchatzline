@@ -16,7 +16,7 @@ I love being creative. Whether it’s creating user-focused mobile apps, brainst
 <h2>🚘 Fleetio Highlights:</h2>
 
   - <p><b>Developed key features</b> and <b>resolved critical bugs</b> in Fleetio Go, improving the experience for <b>125,000+ monthly users</b></p>  
-  - <p><b>Spearheaded development</b> of Fleetio Go’s <b>Shop Directory</b> in an <b>Agile SDLC</b> (6-week sprints, POD model), increasing weekly visits <b>6x</b> in four months (<b>1,372 → 8,143</b>)</p>  
+  - <p><b>Spearheaded development</b> of Fleetio Go’s <b>Shop Directory</b> in an <b>Agile sprints</b>, increasing weekly user visits by <b>6x (1,372 → 8,143</b>)</p>  
   - <p><b>Owned</b> a SwiftUI “Liquid Glass” <b>design system</b> using a custom <b>ViewModifier</b>, enabling consistent styling and faster UI adoption</p>  
   - <p><b>Modernized UI</b> by migrating <b>UIKit</b> screens to <b>SwiftUI</b>, using <b>snapshot testing</b> to ensure pixel-perfect <b>regression coverage</b></p>  
   - <p>Built a <b>custom MapKit clustering algorithm</b> with smooth animations and <b>live map refresh</b>, supporting debounced updates and location-based filtering via <b>RESTful APIs</b></p>  
