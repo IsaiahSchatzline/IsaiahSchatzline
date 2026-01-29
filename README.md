@@ -2,7 +2,7 @@
 
 <h2>😀 About Me:</h2>
 
-<p>I’m an iOS Software Engineer and am currently working at Fleetio. I’m passionate about iOS development, building impactful user experiences, and cultivating a collaborative team culture.
+<p>I’m an iOS Software Engineer and am currently working at Fleetio. I’m passionate about mobile app development, building impactful user experiences, and cultivating a collaborative team culture.
 
 I love being creative. Whether it’s creating user-focused mobile apps, brainstorming innovative solutions, building teams, or writing music. I thrive at the intersection of technology and community impact, blending technical expertise with leadership and communication skills to create meaningful experiences that drive impact.</p>
 <br>
