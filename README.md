@@ -70,6 +70,29 @@ I love being creative. Whether it’s creating user-focused mobile apps, brainst
 
   
 <br>
+
+<h3>Vacation Planner (Android App)</h3>
+
+[(repo)](https://gitlab.com/wgu-gitlab-environment/student-repos/ischat1/d308-mobile-application-development-android/-/tree/final_working_branch?ref_type=heads)
+  <p><i>Plan your dream vacations and excursions all in one place</i></p>
+
+<img width="283" height="631" alt="StartScreen" src="https://github.com/user-attachments/assets/c42c933d-8faf-41e4-9a3c-0bb0e0b5f3c1" />
+<img width="283" height="631" alt="VacationList" src="https://github.com/user-attachments/assets/9930678c-de01-4e66-9cd0-452c19b4d45d" />
+<br>
+<img width="283" height="631" alt="EditVacationTop" src="https://github.com/user-attachments/assets/537385f3-79d4-43c2-81c8-8fdd240640ac" />
+<img width="283" height="631" alt="EditExcursion" src="https://github.com/user-attachments/assets/a959b7e0-abcb-4159-8e52-3fae1c698e95" />
+
+
+
+  - <p>Built a full-featured Vacation Planner app in <b>Kotlin</b> that lets users create trips, manage details, and organize excursions</p>
+  - <p>Architected a <b>Room + SQLite</b> persistence layer with <b>DAOs</b> to store vacations and excursions, supporting <b>CRUD</b> across screens</p>
+  - <p>Enforced <b>date validation</b> rules using <b>parsing</b> and <b>range checks</b> to ensure excursion dates fall within the vacation dates</p>
+  - <p>Added <b>scheduled notifications</b> for vacations and excursions, giving users optional reminders tied directly to their itinerary</p>
+  - <p>Designed a <b>polished</b> multi-screen <b>UX</b> with card-based vacations, in-form excursion management, and <b>share/delete actions</b></p>
+<br>
+
+  
+<br>
   
 <h3>Grocery List App (Mobile App)</h3>
 
