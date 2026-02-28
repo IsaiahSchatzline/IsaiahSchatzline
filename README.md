@@ -22,7 +22,7 @@ I love being creative. Whether it’s creating user-focused mobile apps, brainst
   - <p>Built a <b>custom MapKit clustering algorithm</b> with smooth animations and <b>live map refresh</b>, supporting debounced updates and location-based filtering via <b>RESTful APIs</b></p>  
   - <p>Co-developed <b>iOS App Intents</b> for Fleetio Go, enabling <b>Siri voice commands</b>, <b>Shortcuts</b> support, and <b>Home Screen widgets</b></p>  
   - <p><b>Pioneered</b> and <b>demoed</b> an iOS <b>App Clip</b> at a company-wide, cross-functional <b>hackathon</b> to reduce first-time user friction</p>
-  - <p>Implemented <b>TDD</b> with <b>XCTest</b> and <b>SwiftTesting</b>, ensuring high-quality code through <b>code reviews</b> and <b>pair programming</b></p>
+  - <p>Resolved critical offline inspection bugs by refactoring <b>async concurrency</b> patterns and introducing structured <b>async/await</b> reconciliation between <b>UserDefaults and CoreData storage</b>, ensuring seamless <b>offline data persistence</b> and reliability</p>
 <br>
 
 <h2>👨‍💻 Software Development Projects:</h2>
